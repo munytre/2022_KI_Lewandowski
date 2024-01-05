@@ -14,4 +14,4 @@ The repository is made up of 3 sections.
 All repositories are adjusted to be accessed by the public, private files could be provided upon request.
 ## Contact
 For questions don't hesitate to send me a message at:
-q.c.lin@students.uu.nl
+q.c.lin-3@umcutrecht.nl
